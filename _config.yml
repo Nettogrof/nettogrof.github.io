@@ -30,7 +30,8 @@ twitter_username: Nettogrof
 github_username:  Nettogrof
 
 # Build settings
-theme: just-the-docs
+theme: minima
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
