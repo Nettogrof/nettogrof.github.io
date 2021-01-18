@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##About me, known as Nettogrof & Nessegrev
+## About me, known as Nettogrof & Nessegrev
 
 
 
