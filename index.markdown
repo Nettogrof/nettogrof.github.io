@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-# BattleSnake Blog
+## BattleSnake Blog
 
 This website will contain several blog/article, I wrote about [BattleSnake](https://play.battlesnake.com). The goal is to help the community to improve and to grow even bigger. I prefer to be rank 25th-50th, in a big community  instead of top 5, in a small group.
 
