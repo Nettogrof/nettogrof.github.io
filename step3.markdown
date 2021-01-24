@@ -12,4 +12,8 @@ To test your snake in a particular situation, you can use the [Board Generator](
 
 Example, my snake "Nessegrev" will go in a dead-end, if there a food in it. I could program a function to avoid dead-end, then re-create a dead-end situation with the board generator, and check if my new function works correctly or not, without having to play/check several game.
 
-Once done, you can repeat this step several times to improve your snake each time with different mistakes your snake made.
+Once done, you can repeat this step several times to improve your snake each time with different mistakes your snake made. 
+
+At this point, you should see your snake rating increasing, you may even join some tournament/league in Rookie division. Don't forget that even in Rookie division some snake are very strong. 
+
+Have fun with others during tournament, twitch chat are a great way to known others developpers.
