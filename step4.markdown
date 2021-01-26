@@ -15,10 +15,12 @@ The main reason I suggest to use a source code management tool, it's because we 
 
 But how do we know if a new feature make our snake worst?  Testing, I'll call it Performance testing.
 
+
+## Performance Testing
+
 Performance testing will help you to check if your new feature make your snake better or worse. There's several ways to do it:
   1. The lazyest one:  register another snake , and wait several days to see which one have a better rating.
   1. The not-so-bad one: Use the [Battlesnake-CLI](https://github.com/BattlesnakeOfficial/rules/tree/main/cli) to play several game between your "old" snake vs the "new" one.
   1. The good one: Use the [Battlesnake-CLI](https://github.com/BattlesnakeOfficial/rules/tree/main/cli) to compare your both snakes against other snakes like ["Nessegrev" ones](https://github.com/Nettogrof/battlesnake-nessegrev)
   1. The Best one: Same as the good one, but run hundreds games to have a real idea. (I'll develop a tool to automate that. you can follow the developpement [here](https://github.com/Nettogrof/BattleSnake-PerformanceTesting))
 
-  
