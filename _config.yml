@@ -52,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
