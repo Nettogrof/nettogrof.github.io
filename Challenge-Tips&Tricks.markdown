@@ -4,6 +4,8 @@ title: Challenge - Tips & Tricks
 permalink: /challenge/
 ---
 
+## Disclamer those tricks were about previous challenges, some new challenges are similar.
+
 
 # Challenge 1 -  Solo Survival Challenge
 
